@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+python/*
+.idea/
+.DS_Store
+unity-environment.log
+src/__pycache__/
+*.app/
